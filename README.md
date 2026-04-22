@@ -1,5 +1,5 @@
 ## Hi there, I’m Amit Jain 👋
-<!--
+
 
 I’m a Full-stack Developer and Technical Lead with over 10 years of experience in architecting and delivering high-performance digital solutions. From robust enterprise backends to sleek, modern frontends, I bridge the gap between complex business logic and exceptional user experiences.
 
@@ -22,4 +22,4 @@ Git Hub: https://github.com/ajainoffbeat
 Location: India
 
 "The best way to predict the future is to build it—with clean code and a sharp AI"
--->
+
