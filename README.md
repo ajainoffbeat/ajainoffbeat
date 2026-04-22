@@ -16,6 +16,7 @@ I’m a Full-stack Developer and Technical Lead with over 10 years of experience
 
 📫 Get in touch
 LinkedIn: https://www.linkedin.com/in/amit-jain-2451a2217/?skipRedirect=true
+
 Git Hub: https://github.com/ajainoffbeat
 
 
